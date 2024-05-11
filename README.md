@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ISMAIL AIT ALI MHAMED
 - 👀 I’m interested in Data Sciences 
-- 🌱 I’m currently learning python
 - 📫 How to reach me ismail.aitali01@gmail.com
 
 
